@@ -167,6 +167,7 @@ fieldset {
 }
 footer {
     text-align: center;
+    margin: 24px;
 }
 .footer .logo-social {
     display: inline-block;
